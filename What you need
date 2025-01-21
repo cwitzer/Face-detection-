@@ -1,0 +1,5 @@
+https://github.com/kipr/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+1. Vist the website
+2. Find the "Raw" button
+3. Next Right click on the page or just control - mouse pad click for Mac to find the "save page as" to the download file
+4. Than create a new folder called trained AI, click and drag the file into that folder 
